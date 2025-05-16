@@ -42,6 +42,8 @@ If you find this project useful, please star ⭐ it and share it with peers, stu
 
 Let’s build a community of open-access quantum knowledge — together.
 
+Thanks Valeriy Manokhin for his repo on Awesome Conformal Prediction which inspire this one and Prof. Emmanuel Paspalakis for part of the curated content you see here as it is reference and bibliography of his courses.
+
 # Books 📚
 --------------------------------------------------------------------------------------------
 1. Geometry of Quamtum Theory - V.S. Varadarajan - 2nd. Edition - Springer - 1984
@@ -54,9 +56,19 @@ Let’s build a community of open-access quantum knowledge — together.
 8. Quantum Computing Architecture and Hardware for Engineers - Step by Step - H. Y. Wong - Springer - 2025
 9. Relativistic Quantum Mechanics - J. Bjorken & S. Drell - McGraw Hill Book Company - 1964
 10. Quantum Mechanics - L. Schiff - Third Edition - McGraw Hill Book Company - 1968
+11. Foundations of Quantum Theory - From Classical Concepts to Operator Algebras - Springer - 2017
 
 # Papers 📑
 --------------------------------------------------------------------------------------------
+1. On the Theory of the Energy Distribution Law of the Normal Spectrum - M. Planck - Berlin - 1900
+2. On the Constitution of Atoms and Molecules - N. Bohr - The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, Sixth Series - 1913
+3. A Direct Photoelectric Determination of Planck's 'h' - R. A. Millikan - Phys. Rev., IV., 73, '14 - 1916
+4. A Quantum Theory of the Scattering of X-Rays by Light Elements - A. H. Compton - Phys. Rev. - 1923
+5. A Tentative Theory of Light Quanta - L. de Broglie - 1924
+6. On Theory of Quanta - L. de Broigle - Ann. de Phys., 10e série, t. III - 1925
+7. The Fundamental Equations of Quantum Mechanics - P. A. M. Dirac - Proceedings of the Royal Society of London. Series A, Containing Papers of a
+Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653 - 1925
+8. Uber quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen - W. Heisenberg - 1925
 
 # Courses 📽️
 --------------------------------------------------------------------------------------------
