@@ -30,7 +30,7 @@ From quantum gates and teleportation to symmetry groups and spectral theory, qua
 
 As Dirac once said:
 
-<img src='https://agendarweb.com.ar/wp-content/uploads/2022/08/paul-dirac-1068x601.jpg' alt="Dirac Quote" width="750" height="500"/>
+<img src='https://agendarweb.com.ar/wp-content/uploads/2022/08/paul-dirac-1068x601.jpg' alt="Dirac Quote" width="600" height="400"/>
 
     “The fundamental laws necessary for the mathematical treatment of a large part of physics and the whole of chemistry are thus completely known...”
 
@@ -46,29 +46,37 @@ Thanks Valeriy Manokhin for his repo on Awesome Conformal Prediction which inspi
 
 # Books 📚
 --------------------------------------------------------------------------------------------
-1. Geometry of Quamtum Theory - V.S. Varadarajan - 2nd. Edition - Springer - 1984
-2. Mathematical Foundations of Quantum Mechanics - G. W. Mackey - 1963
-3. Quantum Mechanics - A New Introduction - k. Konishi & G. Paffuti - Oxford University Press - 2013
-4. Lectures on Quantum Mechanics - S. Weinberg - 2nd. Edition - Cambridge University Press - 2015
-5. Basic Quantum Mechanics - Kyriakos Tamvakis - Springer - 2019
-6. Quantum Mechanics - A Modern Development - L. E. Ballentine - Simon Fraser University - 1998
-7. Quantum Information Science - R.Manenti & M Motta - Oxford University Press - 2023
-8. Quantum Computing Architecture and Hardware for Engineers - Step by Step - H. Y. Wong - Springer - 2025
-9. Relativistic Quantum Mechanics - J. Bjorken & S. Drell - McGraw Hill Book Company - 1964
-10. Quantum Mechanics - L. Schiff - Third Edition - McGraw Hill Book Company - 1968
-11. Foundations of Quantum Theory - From Classical Concepts to Operator Algebras - Springer - 2017
+1. **Geometry of Quamtum Theory** - V.S. Varadarajan - 2nd. Edition - Springer - 1984
+2. **Mathematical Foundations of Quantum Mechanics** - G. W. Mackey - 1963
+3. **Quantum Mechanics - A New Introduction** - k. Konishi & G. Paffuti - Oxford University Press - 2013
+4. **Lectures on Quantum Mechanics** - S. Weinberg - 2nd. Edition - Cambridge University Press - 2015
+5. **Basic Quantum Mechanics** - Kyriakos Tamvakis - Springer - 2019
+6. **Quantum Mechanics** - A Modern Development - L. E. Ballentine - Simon Fraser University - 1998
+7. **Quantum Information Science** - R.Manenti & M Motta - Oxford University Press - 2023
+8. **Quantum Computing Architecture and Hardware for Engineers** - Step by Step - H. Y. Wong - Springer - 2025
+9. **Relativistic Quantum Mechanics** - J. Bjorken & S. Drell - McGraw Hill Book Company - 1964
+10. **Quantum Mechanics** - L. Schiff - Third Edition - McGraw Hill Book Company - 1968
+11. **Foundations of Quantum Theory** - From Classical Concepts to Operator Algebras - Springer - 2017
 
 # Papers 📑
 --------------------------------------------------------------------------------------------
-1. On the Theory of the Energy Distribution Law of the Normal Spectrum - M. Planck - Berlin - 1900
-2. On the Constitution of Atoms and Molecules - N. Bohr - The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, Sixth Series - 1913
-3. A Direct Photoelectric Determination of Planck's 'h' - R. A. Millikan - Phys. Rev., IV., 73, '14 - 1916
-4. A Quantum Theory of the Scattering of X-Rays by Light Elements - A. H. Compton - Phys. Rev. - 1923
-5. A Tentative Theory of Light Quanta - L. de Broglie - 1924
-6. On Theory of Quanta - L. de Broigle - Ann. de Phys., 10e série, t. III - 1925
-7. The Fundamental Equations of Quantum Mechanics - P. A. M. Dirac - Proceedings of the Royal Society of London. Series A, Containing Papers of a
-Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653 - 1925
-8. Uber quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen - W. Heisenberg - 1925
+1. **On the Theory of the Energy Distribution Law of the Normal Spectrum** - M. Planck - Berlin - 1900
+2. **On the Constitution of Atoms and Molecules** - N. Bohr - The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, Sixth Series - 1913
+3. **A Direct Photoelectric Determination of Planck's 'h'** - R. A. Millikan - Phys. Rev., IV., 73, '14 - 1916
+4. **A Quantum Theory of the Scattering of X-Rays by Light Elements** - A. H. Compton - Phys. Rev. - 1923
+5. **A Tentative Theory of Light Quanta** - L. de Broglie - 1924
+6. **On Theory of Quanta** - L. de Broigle - Ann. de Phys., 10e série, t. III - 1925
+7. **The Fundamental Equations of Quantum Mechanics** - P. A. M. Dirac - Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653 - 1925
+8. **Uber quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen** - W. Heisenberg - 1925
+9. **Quantisierung als Eigenwertproblem** - E. Schrodinger - 1926
+10. **On the Quantum Mechanics of Collisions** - M. Born - 1926
+11. **An undulatory Theory of the Mechanics of Atoms and Molecules** - E. Schrodinger - Phys. Rev., Vol. 28, No. 6 - 1926
+12. **Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik** - W. Heinsenberg - 1927
+13. **Diffraction of Electrons by Crystal of Nickel** - C. Davisson & L.H. Germer - Phys. Rev., Vol. 30, No. 6, - 1927
+14. **Experiments on the Diffraction of Cathode Rays** - G. P. Thomson - 1927
+15. **The Statistical Interpreation of Quantum Mechanics** - M. Born - Nobel Lecture - 1954
+16. **The Damping Problem in Wave Mechanics** - L.D. Landau - 1965
+17. **Einstein Proposal of the Photon Concept** (A Translation of the Annalen der Physik Paper of 1905) - A. B. Arons & M. B. Peppard - 1964
 
 # Courses 📽️
 --------------------------------------------------------------------------------------------
