@@ -80,7 +80,8 @@ Thanks Valeriy Manokhin for his repo on Awesome Conformal Prediction which inspi
 
 # Courses 📽️
 --------------------------------------------------------------------------------------------
-
+1. An Introduction to Quantum Field Theory by Prof. Robert de Mello Koch: https://www.youtube.com/playlist?list=PLgaZ6JcYetK60tVC3-J92t9WVen5TmtiM
+2. 
 # People 👨‍🔬👩‍🔬
 --------------------------------------------------------------------------------------------
 
