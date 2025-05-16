@@ -44,6 +44,16 @@ Let’s build a community of open-access quantum knowledge — together.
 
 # Books 📚
 --------------------------------------------------------------------------------------------
+1. Geometry of Quamtum Theory - V.S. Varadarajan - 2nd. Edition - Springer - 1984
+2. Mathematical Foundations of Quantum Mechanics - G. W. Mackey - 1963
+3. Quantum Mechanics - A New Introduction - k. Konishi & G. Paffuti - Oxford University Press - 2013
+4. Lectures on Quantum Mechanics - S. Weinberg - 2nd. Edition - Cambridge University Press - 2015
+5. Basic Quantum Mechanics - Kyriakos Tamvakis - Springer - 2019
+6. Quantum Mechanics - A Modern Development - L. E. Ballentine - Simon Fraser University - 1998
+7. Quantum Information Science - R.Manenti & M Motta - Oxford University Press - 2023
+8. Quantum Computing Architecture and Hardware for Engineers - Step by Step - H. Y. Wong - Springer - 2025
+9. Relativistic Quantum Mechanics - J. Bjorken & S. Drell - McGraw Hill Book Company - 1964
+10. Quantum Mechanics - L. Schiff - Third Edition - McGraw Hill Book Company - 1968
 
 # Papers 📑
 --------------------------------------------------------------------------------------------
